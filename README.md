@@ -1,0 +1,2 @@
+# Craps
+Simple dice app
